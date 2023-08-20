@@ -124,4 +124,15 @@ Other techniques and concepts utilized in this analysis:
 
 Feel free to explore the code provided to understand the analysis in detail and how the different components work together to predict rain tomorrow based on weather data.
 
+🏆 Certificates
+
+To verify the certificates, click the images to follow the links.
+
+ <p align="middle">
+  <a href="https://coursera.org/share/d133bcd562e7c5fc1077871806d37681"><img src = "https://user-images.githubusercontent.com/82913441/261848823-0582c229-ea2b-427f-aa40-6a1662c6fae1.jpg"</a>
+</p>
+<p align = "middle'>
+  <a href= "https://www.credly.com/badges/85d1cbe3-4d38-4338-8322-7bc738ca5b61/public_url"><img src ="https://user-images.githubusercontent.com/82913441/261848864-3788bf57-7855-40cf-9bf9-029aa5659d57.jpg"></a>
+</p>
+
 
